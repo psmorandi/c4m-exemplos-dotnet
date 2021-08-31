@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploGeracaoBearerToken",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C4M.Api", "C4M.Api\C4M.Api.csproj", "{F2573FF4-0427-4339-8491-48EA56E2506F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploListarDispositivos", "ExemploListarDispositivos\ExemploListarDispositivos.csproj", "{2A74561F-1968-4867-9471-7758F3F79C00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemploAtualizarAliasDispositivo", "ExemploAtualizarAliasDispositivo\ExemploAtualizarAliasDispositivo.csproj", "{2F8BEB97-A91F-4AC2-B02C-24F87B9035A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{F2573FF4-0427-4339-8491-48EA56E2506F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2573FF4-0427-4339-8491-48EA56E2506F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2573FF4-0427-4339-8491-48EA56E2506F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A74561F-1968-4867-9471-7758F3F79C00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A74561F-1968-4867-9471-7758F3F79C00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A74561F-1968-4867-9471-7758F3F79C00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A74561F-1968-4867-9471-7758F3F79C00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F8BEB97-A91F-4AC2-B02C-24F87B9035A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F8BEB97-A91F-4AC2-B02C-24F87B9035A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F8BEB97-A91F-4AC2-B02C-24F87B9035A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F8BEB97-A91F-4AC2-B02C-24F87B9035A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
